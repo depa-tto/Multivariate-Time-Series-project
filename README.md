@@ -1,1 +1,1 @@
-# Multivariate-Time-Series-project
+Multivariate Time Series project
